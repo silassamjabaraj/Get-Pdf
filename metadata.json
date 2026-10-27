@@ -1,0 +1,8 @@
+{
+  "name": "iLovePDF - Online PDF Tools for PDF Lovers",
+  "description": "Every tool you need to use PDFs, at your fingertips. Merge, split, compress, convert, rotate, sign, protect, and watermark PDFs 100% free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
